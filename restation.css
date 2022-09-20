@@ -1,0 +1,13 @@
+fieldset{
+    padding: 50px 50px 50px 50px;
+    margin: 50px 350px;
+    border: 10px double brown;
+    background-color: lightgreen;
+}
+table{
+color: blue;
+border: 5px solid crimson;
+padding: 10px 20px;
+margin: 0px 0px;
+background-color: lightpink;
+}
